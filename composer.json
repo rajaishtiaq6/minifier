@@ -1,0 +1,13 @@
+{
+    "name": "shaqi/cssminifier",
+    "description": "CSS minifier with custom controles",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ishtiaq Ahmed",
+            "email": "rajaishtiaq6@gmail.com"
+        }
+    ],
+    "require": {}
+}

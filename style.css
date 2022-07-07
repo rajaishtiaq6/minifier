@@ -1,0 +1,12 @@
+body{background:#1e1e1e; margin:0; padding:0;font-family: 'JetBrains Mono', Courier, monospace; }
+ #cssField{position: absolute; width:calc(100% - 10px); height:calc(100vh - 100px); margin:auto; }
+ .ace_editor{position: absolute; width:calc(100% - 10px); height:calc(100vh - 120px); margin:auto; }
+ .button-container{background:#2f3129; padding:10px; color:#fff; height:100px; position:fixed; width:100%; bottom:0; border-top: 1px solid #555651; z-index: 999;}
+ .checkbox-container{display:flex; align-items:center; justify-content:center; }
+ .checkbox-container label{font-size:20px; margin-right:30px; }
+ .button-group{display:flex; align-items:center; justify-content:center; }
+ .button-group button{font-family: 'JetBrains Mono', Courier, monospace; background:#272822; color:#ffffff; font-size:25px; margin:2px 10px 5px; padding:10px 40px; width:20%; cursor:pointer; border: 1px solid #555651;}
+ input[type="checkbox"]{height:20px; width:20px; margin-right:5px; }
+ 
+
+
